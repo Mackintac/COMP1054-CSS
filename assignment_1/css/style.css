@@ -1,5 +1,7 @@
 /**
-Colors: grey-green-blue: #2E5459
+Colors: grey-green-blue: #2E5459aa
+        off-white: #e1e1e1
+
  */
 
 body {
@@ -12,13 +14,16 @@ body {
 
   max-width: 40rem;
   margin: 3rem auto;
+  color: #e1e1e1;
 }
+
 main {
-  background-color: #2e5460aa;
+  background-color: #2e5460dd;
   border-radius: 1rem;
 
-  box-shadow: 0rem 0rem 5rem 10rem #2e5460aa;
+  box-shadow: 0rem 0rem 5rem 10rem #2e5460dd;
 }
+
 h1 {
   font-family: 'Playwrite AU SA';
   font-size: 3rem;
@@ -39,14 +44,14 @@ h5 {
 
 h3 {
   font-family: 'Open Sans';
-  font-size: 2rem;
+  font-size: 2.2rem;
 
   margin: 0.5rem;
 }
 
 h4 {
   font-family: 'Caveat';
-  font-size: 1.6rem;
+  font-size: 2rem;
 
   margin-bottom: 0.5rem;
 }

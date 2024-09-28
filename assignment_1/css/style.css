@@ -2,13 +2,16 @@
 Colors:
  */
 
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
+h1 {
+  font-family: 'Playwrite AU SA';
+}
+h2 {
+  font-family: 'Nerko One';
+}
+h3 {
+  font-family: 'Open Sans';
 }
 
-h1 {
+h4 {
+  font-family: 'Caveat';
 }

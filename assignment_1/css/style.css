@@ -2,16 +2,39 @@
 Colors:
  */
 
+body {
+  text-align: center;
+  max-width: 30rem;
+  margin: 3rem auto;
+}
+
 h1 {
   font-family: 'Playwrite AU SA';
+  margin: 4rem 0rem;
 }
-h2 {
+
+h2,
+h5 {
   font-family: 'Nerko One';
 }
+
 h3 {
   font-family: 'Open Sans';
+  margin: 0.5rem;
 }
 
 h4 {
   font-family: 'Caveat';
+}
+
+h5 {
+  font-size: 0.8rem;
+}
+
+.chorus-text {
+  margin: 2rem 0rem;
+}
+
+.verse-text {
+  margin: 2rem 0rem;
 }

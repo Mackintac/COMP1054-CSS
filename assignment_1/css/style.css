@@ -1,9 +1,5 @@
 /**
 Colors:
-    Blue: #072d67   | rgb(7, 45, 103)
-    Orange: #f4511e | rgb(244, 81, 30)
-    Yellow: #f9a825 | rgb(249, 168, 37)
-    Purple: #5e35b1 | rgb(94, 53, 177)
  */
 
 h1,
@@ -12,26 +8,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: 'Roboto';
 }
 
 h1 {
-  font-size: 48px;
-  letter-spacing: 5px;
-  text-align: center;
-  color: #5e35b1;
-}
-
-header,
-section,
-main {
-  font-family: 'PT Sans';
-}
-main > section > div > p > span {
-  color: #f4511e;
-}
-
-h3 {
-  font-size: 36px;
-  text-shadow: #072d67 1px 0 10px;
 }

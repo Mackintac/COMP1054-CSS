@@ -20,6 +20,7 @@ body {
   margin: 3rem auto;
 }
 
+/* Adding a background colour to main as well as a box shadow helps with distinguishing the content from the background */
 main {
   background-color: #2e5460dd;
   border-radius: 1rem;
@@ -27,6 +28,13 @@ main {
   box-shadow: 0rem 0rem 5rem 10rem #2e5460dd;
 }
 
+/* Simple styling to keep image at the size of 15rem in height */
+.album-image {
+  height: 15rem;
+  width: auto;
+}
+
+/* Text styling and spacing with the 'margin' property for the 'h' elements */
 h1 {
   font-family: 'Playwrite AU SA';
   font-size: 3rem;
@@ -63,10 +71,7 @@ h5 {
   font-size: 0.8rem;
 }
 
-.chorus-text {
-  padding: 2rem 1rem 0rem 0rem;
-}
-
+.chorus-text,
 .verse-text {
-  padding: 2rem 0rem 0rem 1rem;
+  padding: 1rem 0rem;
 }
